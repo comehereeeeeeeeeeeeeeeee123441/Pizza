@@ -2,9 +2,8 @@
 import discord
 import os
 from discord.ext import commands
-import lol
+import pizzapy
 
-lol = (https://github.com/ggrammar/pizzapi.git)
 num1 = False
 address1 = ""
 name1 = ""
